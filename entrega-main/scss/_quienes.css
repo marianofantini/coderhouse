@@ -1,0 +1,25 @@
+.video {
+    display: flex;
+    justify-content: center;
+    margin: 150px 0;
+}
+
+.title {
+    display: flex;
+    justify-content: center;
+}
+
+p {
+    padding: 20px;
+}
+
+.lista-detalles {
+    justify-content: center;
+    text-align: center;
+}
+
+section {
+    p {
+        font-weight: 800;
+    }
+}
